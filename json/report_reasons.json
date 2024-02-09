@@ -1,0 +1,62 @@
+{
+    "categories": [
+      {
+        "name": "Legal issue",
+        "subcategories": [
+            "Copyright",
+            "Trademark infringement",
+            "Privacy issue",
+            "Defamation",
+            "Other"
+        ]
+      },
+      {
+        "name": "Spam or misleading",
+        "subcategories": [
+            "Mass advertising",
+            "Misleading",
+            "Spam",
+            "Scams or fraud",
+            "Other"
+        ]
+      },
+      {
+        "name": "Promotes terrorism",
+        "subcategories": []
+      },
+      {
+        "name": "Harassment or bullying",
+        "subcategories": [
+            "This is harassing me",
+            "This is harassing someone else"
+        ]
+      },
+      {
+        "name": "Harmful or dangerous acts",
+        "subcategories": [
+            "Drug abuse",
+            "Abuse of fire or explosives",
+            "Suicide or self injury",
+            "Other"
+        ]
+      },
+      {
+        "name": "Hateful or abusive content",
+        "subcategories": [
+            "Promotes hatred or violence",
+            "Abusing vulnerable individuals",
+            "Other"
+        ]
+      },
+      {
+        "name": "Violent or repulsive content",
+        "subcategories": [
+            "Animal abuse",
+            "Adults Fighting",
+            "Youth violence",
+            "Other"
+        ]
+      }
+    ]
+  }
+  
