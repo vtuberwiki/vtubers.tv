@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Google Chrome",
+        "regex": "chrome"
+    },
+    {
+        "name": "Mozilla Firefox",
+        "regex": "firefox"
+    },
+    {
+        "name": "Microsoft Edge",
+        "regex": "edge"
+    },
+    {
+        "name": "Apple Safari",
+        "regex": "safari"
+    },
+    {
+        "name": "Opera",
+        "regex": "opera"
+    },
+    {
+        "name": "Brave",
+        "regex": "brave"
+    },
+    {
+        "name": "Vivaldi",
+        "regex": "vivaldi"
+    },
+    {
+        "name": "Samsung Browser",
+        "regex": "SamsungBrowser"
+    }
+]
